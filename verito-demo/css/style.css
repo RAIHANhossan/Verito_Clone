@@ -1,0 +1,39 @@
+@import url(bootstrap.min.css);
+@import url(all.min.css);
+
+
+header .middle-part .row .row .nav.nav-link{
+    padding: 10px 7px 7px 7px;
+    height: 154px;
+    display: block;
+    bottom: -1px;
+    position: relative;
+    color: #858585;
+    text-decoration: none;
+    font-size: 10px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+header .bg-light{
+    background-color: #4a4a4a !important;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+header .middle-part .row .row .col-sm-8.wrapper{
+    display: grid;
+    grid-template-columns: 48% 48%;
+    grid-gap: 4%;
+
+}
+ header .input-group.form-control{
+     color: #333;
+     background-color: #f0f0f0;
+     width: 68%;
+     border: 1px solid #ced4da;
+     font-size: 0.85rem;
+     padding: 9px 50px 9px 10px;
+
+ }
+
+
+
